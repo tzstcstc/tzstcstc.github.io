@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tzstcstc.github.io/TanZheng.github.io/</id>
+    <id>https://tzstcstc.github.io</id>
     <title>tangent</title>
-    <updated>2022-04-22T12:43:09.701Z</updated>
+    <updated>2022-04-22T12:51:35.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tzstcstc.github.io/TanZheng.github.io/"/>
-    <link rel="self" href="https://tzstcstc.github.io/TanZheng.github.io/atom.xml"/>
+    <link rel="alternate" href="https://tzstcstc.github.io"/>
+    <link rel="self" href="https://tzstcstc.github.io/atom.xml"/>
     <subtitle>TanZheng profolio</subtitle>
-    <logo>https://tzstcstc.github.io/TanZheng.github.io/images/avatar.png</logo>
-    <icon>https://tzstcstc.github.io/TanZheng.github.io/favicon.ico</icon>
+    <logo>https://tzstcstc.github.io/images/avatar.png</logo>
+    <icon>https://tzstcstc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, tangent</rights>
     <entry>
         <title type="html"><![CDATA[极客品牌vi手册]]></title>
-        <id>https://tzstcstc.github.io/TanZheng.github.io/post/ji-ke-pin-pai-vi-shou-ce/</id>
-        <link href="https://tzstcstc.github.io/TanZheng.github.io/post/ji-ke-pin-pai-vi-shou-ce/">
+        <id>https://tzstcstc.github.io/post/ji-ke-pin-pai-vi-shou-ce/</id>
+        <link href="https://tzstcstc.github.io/post/ji-ke-pin-pai-vi-shou-ce/">
         </link>
         <updated>2022-04-22T12:07:25.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://tzstcstc.github.io/TanZheng.github.io//post-images/1650629582245.jpg" alt="" loading="lazy"><br>
-<img src="https://tzstcstc.github.io/TanZheng.github.io//post-images/1650629586000.jpg" alt="" loading="lazy"><br>
-<img src="https://tzstcstc.github.io/TanZheng.github.io//post-images/1650629629208.jpg" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p><img src="https://tzstcstc.github.io/post-images/1650629582245.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io/post-images/1650629586000.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io/post-images/1650629629208.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://tzstcstc.github.io/TanZheng.github.io/post/hello-gridea/</id>
-        <link href="https://tzstcstc.github.io/TanZheng.github.io/post/hello-gridea/">
+        <id>https://tzstcstc.github.io/post/hello-gridea/</id>
+        <link href="https://tzstcstc.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
