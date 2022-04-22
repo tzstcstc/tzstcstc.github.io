@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tzstcstc.github.io/tangent.github-io/</id>
-    <title>Gridea</title>
-    <updated>2022-04-22T11:36:53.088Z</updated>
+    <title>tangent</title>
+    <updated>2022-04-22T12:13:56.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tzstcstc.github.io/tangent.github-io/"/>
     <link rel="self" href="https://tzstcstc.github.io/tangent.github-io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>TanZheng profolio</subtitle>
     <logo>https://tzstcstc.github.io/tangent.github-io/images/avatar.png</logo>
     <icon>https://tzstcstc.github.io/tangent.github-io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, tangent</rights>
+    <entry>
+        <title type="html"><![CDATA[极客品牌vi手册]]></title>
+        <id>https://tzstcstc.github.io/tangent.github-io/post/ji-ke-pin-pai-vi-shou-ce/</id>
+        <link href="https://tzstcstc.github.io/tangent.github-io/post/ji-ke-pin-pai-vi-shou-ce/">
+        </link>
+        <updated>2022-04-22T12:07:25.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://tzstcstc.github.io/tangent.github-io//post-images/1650629582245.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io/tangent.github-io//post-images/1650629586000.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io/tangent.github-io//post-images/1650629629208.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://tzstcstc.github.io/tangent.github-io/post/hello-gridea/</id>
