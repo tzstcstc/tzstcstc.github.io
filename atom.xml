@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tzstcstc.github.io/</id>
     <title>tangent</title>
-    <updated>2022-04-22T15:10:50.592Z</updated>
+    <updated>2022-04-22T16:07:01.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tzstcstc.github.io/"/>
     <link rel="self" href="https://tzstcstc.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://tzstcstc.github.io/images/avatar.png</logo>
     <icon>https://tzstcstc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, tangent</rights>
+    <entry>
+        <title type="html"><![CDATA[朋克风品牌“极客”LOGO设计]]></title>
+        <id>https://tzstcstc.github.io/post/peng-ke-feng-pin-pai-ji-ke-logo-she-ji/</id>
+        <link href="https://tzstcstc.github.io/post/peng-ke-feng-pin-pai-ji-ke-logo-she-ji/">
+        </link>
+        <updated>2022-04-22T15:55:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>朋克风的品牌 “极客”LOGO制作，在过程中尝试了使用芯片，矩阵，电路，面具，兜帽衫，科技眼镜，霓虹色彩等元素，让标志看起来具有赛博朋克的风格，形成独树一帜的卖点和冲击。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>朋克风的品牌 “极客”LOGO制作，在过程中尝试了使用芯片，矩阵，电路，面具，兜帽衫，科技眼镜，霓虹色彩等元素，让标志看起来具有赛博朋克的风格，形成独树一帜的卖点和冲击。</p>
+<!-- more -->
+<p><img src="https://tzstcstc.github.io//post-images/1650643373024.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io//post-images/1650643376419.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io//post-images/1650643378236.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io//post-images/1650643380330.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io//post-images/1650643381773.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io//post-images/1650643383418.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io//post-images/1650643386043.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io//post-images/1650643387706.jpg" alt="" loading="lazy"></p>
+<p>标志制作过程，未采用的方案及其他配色方案</p>
+<p><img src="https://tzstcstc.github.io//post-images/1650643389867.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io//post-images/1650643521928.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io//post-images/1650643523845.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io//post-images/1650643525886.jpg" alt="" loading="lazy"><br>
+<img src="https://tzstcstc.github.io//post-images/1650643529656.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[极客品牌vi手册]]></title>
         <id>https://tzstcstc.github.io/post/ji-ke-pin-pai-vi-shou-ce/</id>
